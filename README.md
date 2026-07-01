@@ -19,7 +19,7 @@ I write up the things I figure out over at [projectpattie.com](https://projectpa
   <a href="https://projectpattie.com"><img src="https://img.shields.io/badge/projectpattie-00F0FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=black&amp;labelColor=0A0E14" alt="Blog" /></a>
 </p>
 
-## 🧰 What I reach for most days
+What I reach for most days
 
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-0A0E14?style=for-the-badge&amp;logo=archlinux&amp;logoColor=1793D1" alt="Arch Linux" />
@@ -29,7 +29,7 @@ I write up the things I figure out over at [projectpattie.com](https://projectpa
   <img src="https://img.shields.io/badge/Git-0A0E14?style=for-the-badge&amp;logo=git&amp;logoColor=FF2E97" alt="Git" />
 </p>
 
-## 🌱 What I'm learning right now
+What I'm learning right now
 
 <p>
   <img src="https://img.shields.io/badge/Kubernetes-0A0E14?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=00F0FF" alt="Kubernetes" />
@@ -39,7 +39,7 @@ I write up the things I figure out over at [projectpattie.com](https://projectpa
   <img src="https://img.shields.io/badge/AWS-0A0E14?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="AWS" />
 </p>
 
-## 🔐 Where I come from (the security side)
+Where I come from (the security side)
 
 Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and incident response. That's the part I don't want to leave behind, and it's a big reason DevSecOps clicks for me.
 
@@ -50,15 +50,5 @@ Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and 
   <img src="https://img.shields.io/badge/IAM_·_SSO_·_MFA-B026FF?style=for-the-badge&amp;labelColor=0A0E14" alt="IAM" />
 </p>
 
-## 📊 My Stats
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cravencraven&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;title_color=FF2E97&amp;icon_color=00F0FF&amp;text_color=05FFA1&amp;bg_color=0A0E14&amp;border_color=FF2E97" alt="stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cravencraven&amp;layout=compact&amp;title_color=FF2E97&amp;text_color=05FFA1&amp;bg_color=0A0E14&amp;border_color=FF2E97" alt="top languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cravencraven&amp;background=0A0E14&amp;border=FF2E97&amp;stroke=FF2E97&amp;ring=00F0FF&amp;fire=FF2E97&amp;currStreakNum=FFFFFF&amp;currStreakLabel=00F0FF&amp;sideNums=FFFFFF&amp;sideLabels=00F0FF&amp;dates=8B949E" alt="streak" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F0FF,50:B026FF,100:FF2E97&amp;height=120&amp;section=footer" alt="footer" />
