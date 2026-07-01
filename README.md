@@ -1,9 +1,9 @@
 Hi, I'm Craven 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2E97,50:B026FF,100:00F0FF&amp;height=210&amp;section=header&amp;text=root@craven&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=36&amp;desc=sysadmin%20learning%20offensive%20security%20//%20now%20pulling%20toward%20DevOps%20%2F%20DevSecOps&amp;descSize=16&amp;descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2E97,50:B026FF,100:00F0FF&amp;height=210&amp;section=header&amp;text=root@craven&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=36&amp;desc=Sysadmin%20/Offensive%20Security%20/%20DevOps%20%2F%20DevSecOps&amp;descSize=16&amp;descAlignY=58" alt="header" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=05FFA1&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=%24+whoami;sysadmin+offensive+security;+DevOps;break+things+on+purpose,+break+them+better;still+curious" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=05FFA1&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=%24+whoami;sysadmin;+offensive+security;+DevOps;+DevSecOps;+break+things+on+purpose,+break+them+better;stay+hungry+stay+foolish" alt="typing" />
 </div>
 
 <br>
