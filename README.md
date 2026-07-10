@@ -50,5 +50,7 @@ Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and 
   <img src="https://img.shields.io/badge/IAM_·_SSO_·_MFA-B026FF?style=for-the-badge&amp;labelColor=0A0E14" alt="IAM" />
 </p>
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
