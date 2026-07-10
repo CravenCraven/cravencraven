@@ -55,3 +55,6 @@ Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+feed_list: "https://projectpattie.com/feed.xml"
+
+
