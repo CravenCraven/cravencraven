@@ -56,8 +56,8 @@ Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and 
 - [Stratis pools, filesystems, and snapshots](https://projectpattie.com/blog/ticket-queue-31-stratis/)
 - [Containers that survive reboot: systemd units and pods](https://projectpattie.com/blog/ticket-queue-30-containers-systemd-pods/)
 - [Rootless containers with podman: volumes, ports, and SELinux](https://projectpattie.com/blog/ticket-queue-29-podman-containers/)
-- [Logging: rsyslog, journald, journalctl, and logrotate](https://projectpattie.com/blog/ticket-queue-28-logging-rsyslog-journald/)
-- [Runaway processes: signals, priority, and job control](https://projectpattie.com/blog/ticket-queue-27-process-management/)
+- [Walkthrough: Proving Ephemeral vs Persistent Storage with Postgres](https://projectpattie.com/blog/ephemeral-vs-persistent-storage-walkthrough/)
+- [Ephemeral vs Persistent Storage in Kubernetes](https://projectpattie.com/blog/ephemeral-vs-persistent-storage/)
 <!-- BLOG-POST-LIST:END -->
 
 
