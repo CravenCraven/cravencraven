@@ -53,11 +53,11 @@ Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NotReady: A Love Story](https://projectpattie.com/blog/not-ready-a-love-story/)
+- [Joining the Dell as a k3s worker node](https://projectpattie.com/blog/joining-the-dell-as-a-k3s-worker-node/)
+- [Setting Up GitOps with Flux on a Kubernetes Cluster](https://projectpattie.com/blog/setting-up-gitops-with-flux/)
 - [Fedora Asahi Remix on Apple Silicon: A Runbook](https://projectpattie.com/blog/fedora-asahi-on-an-m2/)
 - [The M2 Air as a homelab node](https://projectpattie.com/blog/the-m2-air-as-a-homelab-node/)
-- [Stratis pools, filesystems, and snapshots](https://projectpattie.com/blog/ticket-queue-31-stratis/)
-- [Containers that survive reboot: systemd units and pods](https://projectpattie.com/blog/ticket-queue-30-containers-systemd-pods/)
-- [Rootless containers with podman: volumes, ports, and SELinux](https://projectpattie.com/blog/ticket-queue-29-podman-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 
