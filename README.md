@@ -53,11 +53,11 @@ Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Didn&#39;t My PVC Show Up in the Cluster?](https://projectpattie.com/blog/adding-persistent-storage-to-linkding/)
 - [Why Won&#39;t My LoadBalancer Load Balance Anything?](https://projectpattie.com/blog/why-wont-my-loadbalancer-load-balance/)
 - [Where Does the Grafana Password Actually Come From?](https://projectpattie.com/blog/where-does-the-grafana-password-come-from/)
 - [NotReady: A Love Story](https://projectpattie.com/blog/not-ready-a-love-story/)
 - [Joining the Dell as a k3s worker node](https://projectpattie.com/blog/joining-the-dell-as-a-k3s-worker-node/)
-- [Setting Up GitOps with Flux on a Kubernetes Cluster](https://projectpattie.com/blog/setting-up-gitops-with-flux/)
 <!-- BLOG-POST-LIST:END -->
 
 
