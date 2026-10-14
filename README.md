@@ -53,11 +53,11 @@ Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [KubeCraft Capstone: Can I Deploy Audiobookshelf With Nothing but Git?](https://projectpattie.com/blog/kubecraft-capstone-audiobookshelf/)
 - [Exercise - Ingress with Traefik](https://projectpattie.com/blog/exercise-ingress-with-traefik/)
 - [Letting Linkding Out of the House](https://projectpattie.com/blog/letting-linkding-out-of-the-house/)
 - [The second source is the one that tells you if your design was right](https://projectpattie.com/blog/the-second-source/)
 - [Scraping a 1970s language course into Postgres](https://projectpattie.com/blog/scraping-a-1970s-language-course-into-postgres/)
-- [Five ways I broke port-forward in one night](https://projectpattie.com/blog/five-ways-i-broke-port-forward/)
 <!-- BLOG-POST-LIST:END -->
 
 
