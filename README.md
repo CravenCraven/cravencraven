@@ -53,11 +53,11 @@ Before all the automation my world was CrowdStrike, Okta, SIEM tuning, IAM, and 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My demo page was beautiful. It just wasn&#39;t true anymore.](https://projectpattie.com/blog/my-demo-page-was-beautiful/)
+- [One tile down: Música is on the internet](https://projectpattie.com/blog/one-tile-down-musica-is-on-the-internet/)
 - [Flux Runs My Cluster. Who&#39;s Watching My DNS?](https://projectpattie.com/blog/flux-runs-my-cluster-whos-watching-my-dns/)
 - [The tracker I built for the KubeCraft winter sprint. one file, ten themes, yours to take.](https://projectpattie.com/blog/the-tracker-i-built-for-the-kubecraft-winter-sprint/)
 - [Can a Bot Keep My Homelab Up to Date Without Breaking It?](https://projectpattie.com/blog/automated-image-updates-with-renovate/)
-- [One Login for the Whole Lab: n8n, Postgres, Traefik, and Authentik](https://projectpattie.com/blog/n8n-authentik-sso/)
-- [KubeCraft Capstone: Can I Deploy Audiobookshelf With Nothing but Git?](https://projectpattie.com/blog/kubecraft-capstone-audiobookshelf/)
 <!-- BLOG-POST-LIST:END -->
 
 
